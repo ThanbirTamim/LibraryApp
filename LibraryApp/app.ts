@@ -15,7 +15,7 @@ function menu(): void {
         2. Show Books
         3. Borrow Book
         4. Return Book
-        5. Exit
+        5. Close
         `);
 }
 
