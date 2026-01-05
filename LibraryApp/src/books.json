@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "ABC",
+    "isBorrowed": false
+  },
+  {
+    "id": 2,
+    "name": "XYZ",
+    "isBorrowed": false
+  },
+  {
+    "id": 3,
+    "name": "Harry Porter",
+    "isBorrowed": true
+  }
+]

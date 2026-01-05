@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LibraryApp/LibraryApp.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
